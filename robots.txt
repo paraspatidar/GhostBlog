@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: https://ecstatic-engelbart-379285.netlify.com/sitemap.xml
+Sitemap: http://blog.paraspatidar.com/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
