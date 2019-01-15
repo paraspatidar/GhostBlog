@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: http://blog.paraspatidar.com/sitemap.xml
+Sitemap: https://blog.paraspatidar.com/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
